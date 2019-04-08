@@ -1,4 +1,4 @@
-Copyright (c) 2017 - Rohan Taneja
+Copyright (c) 2019 - Mar Yvan Dela Cruz
 
 Device configuration for Lenovo A7000-a
 ==============
@@ -31,6 +31,7 @@ This branch is for building LineageOS-14.1 based ROMs.
   - Vendor blobs: https://github.com/rohantaneja/proprietary_vendor_lenovo
 
 ### Credits:
+  - lionsinofpride - Mar Yvan Dela Cruz
   - rohantaneja
   - xakep1993 (initial steps towards nougat)
   - daniel_hk (all his detailed guidelines and sources)
